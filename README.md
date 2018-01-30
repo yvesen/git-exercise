@@ -4,7 +4,7 @@ git clone https://github.com/yvesen/git-exercise.git
 
 cd git-exercise
 
-boundel install
+bundel install
 
 rails db:migrate
 
